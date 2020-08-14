@@ -4,3 +4,5 @@ there are two keys used in this repository, both are now replaced with bracketed
 In case you want just the rationalie and pseudo coding, it is also possible to replace the data source with other sources. This repository is meant to show how it works but not ncessarily ask you to buy those data sources, technologies change and you can also us.
 
 Book is avaliable here: https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-banking
+
+Discount code for quandl -Sharadar reference library: RSOPS-20P-Sharadar-bk
